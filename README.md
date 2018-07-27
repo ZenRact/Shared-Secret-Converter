@@ -1,10 +1,10 @@
 # Shared Secret Converter
-#** Installation **
+# ** Installation **
 - pip install biplist uuid
 - git clone https://github.com/ZenRact/Shared-Secret-Converter.git
 - cd Shared-Secret-Converter
 
-#** Instruction **
+# ** Instruction **
 It's easy instruction how to move your Steam Mobile Authenticator from iPhone/iPad to [Steam Desktop Authenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator)
 
 [YouTube Guide](https://youtube.com)
