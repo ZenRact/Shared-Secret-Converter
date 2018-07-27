@@ -7,7 +7,7 @@
 # Instruction
 It's easy instruction how to move your Steam Mobile Authenticator from iPhone/iPad to [Steam Desktop Authenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator)
 
-[YouTube Guide](https://youtube.com)
+[YouTube Guide](https://youtu.be/CuDsmVhAU2U)
 
 1. Download and install __iExplorer__ (You may find cracked version, but the functionality of trial version is more than enough)
 2. Make a backup of device with Steam app using iTunes
