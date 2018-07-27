@@ -18,5 +18,3 @@ It's easy instruction how to move your Steam Mobile Authenticator from iPhone/iP
 7. Import .maFile to SDA
 
 Enjoy!
-
-P.S.: Please report all errors!
