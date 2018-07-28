@@ -13,8 +13,8 @@ It's easy instruction how to move your Steam Mobile Authenticator from iPhone/iP
 2. Make a backup of device with Steam app using iTunes
 3. Open __iExplorer__ -> Browse iTunes Backups -> Choose your backup -> Backup Explorer
 4. Find App -> com.valvesoftware.Steam -> Documents
-5. Drag'n'Drop all files __Steamguard-00000000000000000__ to some folder __00000000000000000__ is Steam ID)
+5. Drag'n'Drop all files __Steamguard-00000000000000000__ to some folder (__00000000000000000__ is Steam ID)
 6. Convert files using __Shared Secret Converter__
-7. Import .maFile to SDA
+7. Import .maFile to [SDA](https://github.com/Jessecar96/SteamDesktopAuthenticator)
 
 Enjoy!
